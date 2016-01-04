@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.ico</file>
+        <file>quit_pressed.png</file>
+    </qresource>
+</RCC>
